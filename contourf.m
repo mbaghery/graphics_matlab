@@ -1,5 +1,5 @@
 function contourf(X, Y, Z, n, options)
-%MYFILLCONTOUR Draws fancy contour plots
+%CONTOURF Draws fancy contour plots
 %   The syntax is similar to that of contour(X, Y, Z, n [, options]).
 %   
 %   options has several fields (first ones are default values):
